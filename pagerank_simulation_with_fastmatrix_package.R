@@ -62,3 +62,5 @@ PageRank_prob
 # VALIDATION WITH DOMINANT EIGENVECTOR
 # Compare simulated frequencies with the dominant eigenvector
 cbind(PageRank_prob, r_Perron)
+
+
